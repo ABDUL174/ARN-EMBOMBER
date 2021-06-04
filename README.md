@@ -18,11 +18,11 @@ git clone https://github.com/ABDUL174/EMBOMBER.git
 ```
 Now navigate to EmBomber directory
 ``` bash
-cd EmBomber
+cd EMBomber
 ```
 Now you can run EmBomber
 ``` bash
-python EmBomber.py
+python EMBomber.py
 ```
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
