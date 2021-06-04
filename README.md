@@ -18,7 +18,7 @@ git clone https://github.com/ABDUL174/EMBOMBER.git
 ```
 Now navigate to EmBomber directory
 ``` bash
-cd EMBomber
+cd ARN-EMBOMBER
 ```
 Now you can run EmBomber
 ``` bash
