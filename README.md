@@ -22,7 +22,7 @@ cd ARN-EMBOMBERS
 ```
 Now you can run EmBomber
 ``` bash
-python2 EMBomber.py
+python2 embomber.py
 ```
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
